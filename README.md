@@ -1,5 +1,5 @@
   <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&size=25&pause=1000&color=793EB3&random=false&width=435&lines=Hi%2C+there!+I'm+marowyck." alt="Typing SVG" /></a></p>
-  <img src="https://github.com/marowyck/marowyck/blob/main/gengar-lindo.gif" width="20%" align="right">
+  <img src="https://github.com/marowyck/marowyck/blob/main/gengar.gif" align="right" width="40%">
   <br>
   
   <div style="max-width: 600px;" align="center">
