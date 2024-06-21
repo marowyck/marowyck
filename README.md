@@ -25,4 +25,4 @@
 [![marowyck's GitHub stats](https://github-readme-stats.vercel.app/api?username=marowyck&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/marowyck/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marowyck&layout=compact&theme=dracula&hide_border=true)](https://github.com/marowyck/github-readme-stats)
 
-![snake animation](https://github.com/<marowyck>/<marowyck>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/marowyck/marowyck/blob/output/github-contribution-grid-snake.svg)
