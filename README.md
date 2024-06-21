@@ -1,16 +1,14 @@
-  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&size=25&pause=1000&color=793EB3&random=false&width=435&lines=Hi%2C+there!+I'm+marowyck." alt="Typing SVG" /></a></p>
+  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&size=25&pause=1000&color=793EB3&random=false&width=435&lines=Hi%2C+there!+I'm+marowyck." alt="Typing SVG" /></a></p>
   <img src="https://github.com/marowyck/marowyck/blob/main/gengar-lindo.gif" width="20%" align="right">
   <br>
+  
   <div style="max-width: 600px;" align="center">
-    
-    <p>
+     <p>
       📕 Information Systems at UEMG • FullStack Dev<br>
       👾 Pronouns: She/Her<br>
       💻 Learning GoLang and Python<br>
       📡 Ruby is definitely something<br> 
       🎮 Music • Games • K-pop • <b>Pokémon</b> • Code<br>
-    </p>
-    
   </div>
 
   <h3 align="center">Social Media:</h3>
