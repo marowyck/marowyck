@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=figma,github,vscode,idea"/>
     <br>
     <h4>Main langs:</h4>
-    <p align="center">
+    <p align="left">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,java,spring,go,mysql,mongodb" />
   </a>
