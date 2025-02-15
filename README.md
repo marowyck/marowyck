@@ -1,5 +1,5 @@
   <div>
-  <img src="octocat-1739578843570.png" width="400px" align="right">
+  <img src="octocat-1739578843570.png" width="300px" align="right">
   </div>
 
   <div style="max-width: 600px;" align="center">
