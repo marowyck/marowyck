@@ -1,5 +1,5 @@
   <div>
-  <img src="octocat-1739578843570.png" width="250px" max-width="600px" align="right">
+  <img src="octocat-1739578843570.png" width="400px" align="right">
   </div>
 
   <div style="max-width: 600px;" align="center">
@@ -18,11 +18,9 @@
     <img src="https://skillicons.dev/icons?i=figma,github,vscode,idea"/>
     <br>
     <h4>Main langs:</h4>
-    <p align="left">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,java,spring,go,mysql,mongodb" />
   </a>
-</p>
   </div>
 
   <h3 align="center">Social Media:</h3>
