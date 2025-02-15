@@ -13,6 +13,7 @@
     <p>This is where you'll find the repository for most of my projects, so feel free to access them to find out more about my work.</p>
     <p>My focus is on website development, but I also have a passion for UX/UI</p>
     <p>Have a good look!</p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+    <hr>
     <h4>Main technologies:</h4>
     <p align="center">
     <a href="https://skillicons.dev">
