@@ -1,23 +1,33 @@
-  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&size=25&pause=1000&color=793EB3&random=false&width=435&lines=Hi%2C+there!+I'm+marowyck." alt="Typing SVG" /></a></p>
-  <img src="https://github.com/marowyck/marowyck/blob/main/gengar.gif" align="right" width="40%">
-  <br>
-  
+  <div>
+  <img src="octocat-1739578843570.png" width="500px" max-width="600px" align="right">
+  </div>
+
   <div style="max-width: 600px;" align="center">
-     <p>
-      📕 Information Systems at UEMG • FullStack Dev<br>
-      👾 Pronouns: She/Her<br>
-      💻 Learning Front and Back-end<br>
-      📡 Go is definitely something<br> 
-      🎮 Music • Games • K-pop • <b>Pokémon</b> • Code<br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=F7F7F7&center=true&width=435&lines=%3E+MOCS+PROFILE+%3C" alt="Typing SVG" /></a>
+  <br>
+  </div>
+
+  
+  <div style="max-width: 600px;" align="center";>
+    <p>Hello internet users! How are you?</p>
+    <p>Well, you're accessing my GitHub for some purpose, right? </p>
+    <p>This is where you'll find the repository for most of my projects, so feel free to access them to find out more about my work.</p>
+    <h4>Main technologies:</h4>
+    <p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,github,vscode,idea"/>
+    <br>
+    <h4>Main langs:</h4>
+    <p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,java,spring,go,mysql,mongodb" />
+  </a>
+</p>
   </div>
 
   <h3 align="center">Social Media:</h3>
-     <p align="center"><a href="https://www.instagram.com/marowyck/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/maria-olívia-cassucci-dos-santos-a79896267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
-
+     <p align="center"><a href="https://www.instagram.com/mocsdev/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <hr>
 
-[![marowyck's GitHub stats](https://github-readme-stats.vercel.app/api?username=marowyck&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/marowyck/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marowyck&layout=compact&theme=dracula&hide_border=true)](https://github.com/marowyck/github-readme-stats)
 
