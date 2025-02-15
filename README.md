@@ -6,12 +6,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=F7F7F7&center=true&width=435&lines=%3E+MOCS+PROFILE+%3C" alt="Typing SVG" /></a>
   <br>
   </div>
-
   
   <div style="max-width: 600px;" align="center";>
     <p>Hello internet users! How are you?</p>
     <p>Well, you're accessing my GitHub for some purpose, right? </p>
     <p>This is where you'll find the repository for most of my projects, so feel free to access them to find out more about my work.</p>
+    <p>My focus is on website development, but I also have a passion for UX/UI</p>
+    <p>Have a good look!</p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
     <h4>Main technologies:</h4>
     <p align="center">
     <a href="https://skillicons.dev">
