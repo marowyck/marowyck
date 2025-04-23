@@ -17,11 +17,11 @@
     <h4>Main technologies:</h4>
     <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,github,vscode,idea"/>
+    <img src="https://skillicons.dev/icons?i=figma,github,vscode"/>
     <br>
     <h4>Main langs:</h4>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,java,spring,go,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,go,mysql,mongodb" />
   </a>
   </div>
 
