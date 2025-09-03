@@ -21,7 +21,7 @@
     <br>
     <h4>Main langs:</h4>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,go,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,mysql,mongodb,postgresql" />
   </a>
   </div>
 
