@@ -25,8 +25,17 @@
   </a>
   </div>
 
-  <h3 align="center">Social Media:</h3>
-     <p align="center"><a href="https://www.instagram.com/mocsdev/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<h3 align="center">Social Media & Portfolio</h3>
+
+<p align="center">
+  <a href="https://www.instagram.com/mocsdev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://mocs.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio_MOCS-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 
 <hr>
 
