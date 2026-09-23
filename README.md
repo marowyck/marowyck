@@ -1,4 +1,4 @@
-  <div>
+<div>
   <img src="octocat-1739578843570.png" width="300px" align="right">
   </div>
 
@@ -11,17 +11,18 @@
     <p>Hello internet users! How are you?</p>
     <p>Well, you're accessing my GitHub for some purpose, right? </p>
     <p>This is where you'll find the repository for most of my projects, so feel free to access them to find out more about my work.</p>
-    <p>My focus is on website development, but I also have a passion for UX/UI</p>
+    <p>Full Stack Developer focused on TypeScript, React, Next.js and Nest.js — building SaaS products for healthcare and fintech. Founder of ANIMAPS.</p>
     <p>Have a good look!</p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
     <hr>
     <h4>Main technologies:</h4>
     <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,github,vscode"/>
+    <img src="https://skillicons.dev/icons?i=figma,github,vscode,git,postman,vercel,supabase"/>
+    </a>
     <br>
     <h4>Main langs:</h4>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,mysql,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,nestjs,tailwind,mysql,mongodb,postgresql,prisma" />
   </a>
   </div>
 
@@ -38,5 +39,3 @@
 </p>
 
 <hr>
-
-
