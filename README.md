@@ -8,11 +8,10 @@
   </div>
   
   <div style="max-width: 600px;" align="center";>
-    <p>Hello internet users! How are you?</p>
-    <p>Well, you're accessing my GitHub for some purpose, right? </p>
-    <p>This is where you'll find the repository for most of my projects, so feel free to access them to find out more about my work.</p>
-    <p>Full Stack Developer focused on TypeScript, React, Next.js and Nest.js — building SaaS products for healthcare and fintech. Founder of ANIMAPS.</p>
-    <p>Have a good look!</p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+    <p>Hey there! Welcome to my GitHub 👋</p>
+    <p>I'm a Full Stack Developer specialized in TypeScript, working across the whole stack with React, Next.js, Nest.js and PostgreSQL.</p>
+    <p>I've built SaaS products for healthcare and fintech, and I'm currently the founder & developer behind <strong>ANIMAPS</strong>, a platform for responsible pet adoption and animal management.</p>
+    <p>Feel free to explore my repositories to see more of my work — and take a look around!</p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
     <hr>
     <h4>Main technologies:</h4>
     <p align="center">
